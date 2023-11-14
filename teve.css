@@ -41,7 +41,7 @@ h1{
 	padding-bottom: 3px solid orange;
 }
 
-.jobbra{
+#jobbra{
 	text-align: right;
 }
 
@@ -52,4 +52,9 @@ h1{
 }
 .tevekep{
 	float: right;
+}
+a{
+ color: orange;
+ text-decoration: none;
+
 }
