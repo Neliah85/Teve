@@ -2,6 +2,7 @@ body{
 	background-repeat:no-repeat;
 	background-size:cover;
 	font-family:cursive;
+	background-image: url(/sivatag.jpg);
 }
 
 p{
@@ -29,10 +30,26 @@ input{
 #fohasz{
 	font-style:italic; 
 	text-align:center;  
+	text-transform: uppercase;
 }
 
 #oazis{
 	width:30%;
 }
 
+h1{
+	padding-bottom: 3px solid orange;
+}
 
+.jobbra{
+	text-align: right;
+}
+
+#romhanyi{
+	text-align: right;
+	font-style: italic;
+	font-size: 11px;
+}
+.tevekep{
+	float: right;
+}
